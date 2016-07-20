@@ -34,6 +34,7 @@ pip install -r requirements.txt
 **For Mac :** 
 ```
 git clone https://github.com/yasintoy/Slack-Gitsin.git
+cd Slack-Gitsin
 virtualenv -p python2.7 env
 source env/bin/activate
 pip install -r requirements.txt
